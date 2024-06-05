@@ -1,6 +1,6 @@
 Bu kodlamada bir ödevi simüle etmeye çalıştım. Ödev şuydu:
 
-Kampımızla beraber paralelde geliştireceğimiz bir projemiz daha olacak. Araba kiralama sistemi yazıyoruz.
+**Kampımızla beraber paralelde geliştireceğimiz bir projemiz daha olacak. Araba kiralama sistemi yazıyoruz.
 
 Yepyeni bir proje oluşturunuz. Adı ReCapProject olacak. (Tekrar ve geliştirme projesi)
 
@@ -12,4 +12,4 @@ Bir araba nesnesi oluşturunuz. "Car"
 
 InMemory formatta GetById, GetAll, Add, Update, Delete oprasyonlarını yazınız.
 
-Consolda test ediniz.
+Consolda test ediniz.**
