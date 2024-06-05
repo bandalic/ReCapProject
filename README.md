@@ -1,4 +1,5 @@
 Bu kodlamada bir ödevi simüle etmeye çalıştım. Ödev şuydu:
+
 Kampımızla beraber paralelde geliştireceğimiz bir projemiz daha olacak. Araba kiralama sistemi yazıyoruz.
 
 Yepyeni bir proje oluşturunuz. Adı ReCapProject olacak. (Tekrar ve geliştirme projesi)
