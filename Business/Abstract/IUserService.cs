@@ -8,10 +8,12 @@ using System.Threading.Tasks;
 
 namespace Business.Abstract
 {
-    public interface IColorService
+    public interface IUserService
     {
-        IDataResult<List<Color>> GetAll();
-        IDataResult<List<Color>> GetCarsByColorId(int id);
+        IResult Add(User user);
+        IResult Update(User user);
+        IResult Delete(User user);
+        IDataResult<List<User>> GetAll();
 
     }
 }
