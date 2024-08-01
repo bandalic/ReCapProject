@@ -46,7 +46,7 @@ namespace Business.Concrete
 
         public IDataResult<List<Image>> GetImagesByCarId(int CarId)
         {
-            return new SuccessDataResult<List<Image>>(_imageDal.GetAll(i => i.ImageId == CarId), Messages.ImagesListed);
+            return new SuccessDataResult<List<Image>>(_imageDal.GetAll(i => i.Id == CarId), Messages.ImagesListed);
         }
 
         public IResult Update(IFormFile file, Image image)
